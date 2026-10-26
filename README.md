@@ -17,7 +17,7 @@ A simple terminal-based Todo Manager written in C++.
 ## Build
 
 ```bash
-g++ -std=c++17 -Wall -Wextra -Wpedantic main.cpp -o todo
+g++ -std=c++17 -Wall -Wextra -Wpedantic src/main.cpp -o todo
 ```
 
 ## Run
